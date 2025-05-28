@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    'Por que o livro de matemática se suicidou?',
+    'Porque tinha muitos problemas!'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Vegetariano',
+    'O que é um vegetariano que come carne?',
+    'Um ex-vegetariano!'
 )
 
 criaCartao(
