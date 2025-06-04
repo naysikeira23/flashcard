@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Café',
+    'O que é um café que nunca foi tomado?',
+    'Um café "sem filtro"!'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Rato',
+    'O que é um rato que é bom em matemática?',
+    'Um "rato" calculista!'
 )
